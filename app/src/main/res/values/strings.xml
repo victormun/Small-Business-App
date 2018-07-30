@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ferretería El Imán</string>
+    <string name="title_contact">Contact Information</string>
+    <string name="phone_number">+34 916 803 943</string>
+    <string name="address">Avda. Fuenlabrada, 28, Leganés</string>
+    <string name="email_txt">ferreteriaeliman@gmail.com</string>
+    <string name="title_hours">Opening Hours</string>
+    <string name="week">Mon to Fri:</string>
+    <string name="hours">9:30 - 13:30  |  17:00 - 20:00</string>
+    <string name="sat">Saturday:</string>
+    <string name="sat_hours">9:30 - 13:30</string>
+    <string name="description_EN">\'Ferretería El Imán\' is one of the most promising hardware stores in Leganés. They have all types of products: from pans to needles, as well as any other tools that customers require. The owners of the store are always willing to help the customers offering precise and expert advice on hardware-related projects.</string>
+</resources>
